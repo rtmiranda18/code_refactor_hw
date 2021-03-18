@@ -85,7 +85,7 @@ main {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* comment out redundant CSS classes */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
